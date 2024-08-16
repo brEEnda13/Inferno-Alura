@@ -1,0 +1,17 @@
+
+body {
+font-size: 40px;
+    color: rgb(65, 71, 134);
+ padding: 30px;
+ border: solid 15px rgb(83, 97, 189)
+
+}
+img {
+opacity: 0,5;
+    display:flex;
+    overflow-x: 10px;
+
+ }
+
+
+ 
